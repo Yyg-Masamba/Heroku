@@ -22,7 +22,5 @@
 
 ------
 
-## Deploy using CLI
+## DO NOT UPLOAD ANYTHING HERE
 
-- Deployment instructions uploaded [HERE](https://gist.github.com/Dawn-India/9be1ca66b392dee82bcbc8d7f7ebefe8)
-- Carefully copy-paste every CMD one by one. If you miss maybe your BOT will not run.
