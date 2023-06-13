@@ -1,8 +1,5 @@
 # Deploy to HEROKU
 
-**Important Note**
-1. Upload all of your private files here: `config.env`, `token.pickle`, `rcl.conf`, `accounts.zip`, `shorteners.txt` etc...
-
 **Mandatory Veriables in Config**
 
 - `UPSTREAM_REPO`: Your github repository link, if your repo is private add `https://<deploy_token>:<empty_password>@gitlab.com/<your_username>/<repository_name>
