@@ -9,7 +9,7 @@
 **Mandatory Veriables in Config**
 
 - `UPSTREAM_REPO`: https://GitHubusername:git_token@github.com/GitHubusername/reponame
-- `UPSTREAM_BRANCH`: Upstream branch for update. Default is `zh_run`. `Str`
+- `UPSTREAM_BRANCH`: Upstream branch for update. Default is `pea_run`. `Str`
 
 - `BOT_TOKEN`: The Telegram Bot Token that you got from [BotFather](https://t.me/BotFather). `Str`
 - `OWNER_ID`: The Telegram User ID (not username) of the Owner of the bot. `Int`
