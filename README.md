@@ -8,7 +8,7 @@
 
 **Mandatory Veriables in Config**
 
-- `UPSTREAM_REPO`: Your github repository link, if your repo is private add `https://<deploy_token>:<empty_password>@github.com/<your_username>/<repository_name>
+- `UPSTREAM_REPO`: Your github repository link, if your repo is private add `https://GitHubusername:git_token@github.com/GitHubusername/reponame
 recommended).
 - `UPSTREAM_BRANCH`: Upstream branch for update. Default is `zh_run`. `Str`
 
