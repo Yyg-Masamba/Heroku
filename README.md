@@ -1,2 +1,2 @@
 
-**UPLOAD ANYTHING HERE: Accounts, Token, Button, Terabox, etc**
+**UPLOAD ANYTHING HERE: Accounts, Token, Button, Terabox, rcl.conf, shorteners.txt, etc**
