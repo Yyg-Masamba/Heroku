@@ -781,23 +781,3 @@ machine example.workers.dev password index_password
 Where host is the name of extractor (eg. instagram, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
 
 -----
-
-## Donations
-
-<p> If you feel like showing your appreciation for this project by Anas, then how about buying me a coffee. for Anas</p>
-
-[!["Buy Me A Coffee"](https://storage.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/anasty17)
-
-Binance ID:
-
-```
-52187862
-```
-
-USDT Address: `TEzjjfkxLKQqndpsdpkA7jgiX7QQCL5p4f` Network: `TRC20`
-
-BTC Addrese: `17dkvxjqdc3yiaTs6dpjUB1TjV3tD7ScWe`
-
-ETH Address: `0xf798a8a1c72d593e16d8f3bb619ebd1a093c7309`
-
------
