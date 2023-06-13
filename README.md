@@ -8,8 +8,7 @@
 
 **Mandatory Veriables in Config**
 
-- `UPSTREAM_REPO`: Your github repository link, if your repo is private add `https://GitHubusername:git_token@github.com/GitHubusername/reponame
-recommended).
+- `UPSTREAM_REPO`: https://GitHubusername:git_token@github.com/GitHubusername/reponame
 - `UPSTREAM_BRANCH`: Upstream branch for update. Default is `zh_run`. `Str`
 
 - `BOT_TOKEN`: The Telegram Bot Token that you got from [BotFather](https://t.me/BotFather). `Str`
