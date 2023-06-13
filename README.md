@@ -1,6 +1,6 @@
 **Important Note**
 
-**UPLOAD ANYTHING HERE: Accounts, Token, Button, Terabox, rcl.conf, shorteners.txt, etc**
+**UPLOAD ANYTHING HERE: Accounts, Token, Button, Terabox, rcl.conf, shorteners.txt, etc or you can upload in bsetting**
 
 
 
